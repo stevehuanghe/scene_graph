@@ -2,6 +2,8 @@
 
 He Huang, Shunta Saito, Yuta Kikuchi, Eiichi Matsumoto, Wei Tang, Philip S. Yu
 
+Part of this work was done while He Huang was an intern at Preferred Networks.
+
 [Paper](https://arxiv.org/abs/2009.13331) published in ACCV'2020.
 
 In this paper, we propose to factorize  scene graph parsing as a combination of classification and ranking problems and propose a contrasting cross-entropy (CCE) loss and a Ranker module to address these two tasks repectively. Experiments show that our framework is able to help several scene graph models alleviate the class imbalance problem in scene graph parsing. 
